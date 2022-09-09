@@ -1,1 +1,1 @@
-A C program that prints exactly
+A script that compiles a C file and creates an executable named cisfun
